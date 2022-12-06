@@ -1,0 +1,32 @@
+h1 {
+  font-family: "Kaushan Script", cursive;
+  font-size: 60px;
+  font-style: italic;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+}
+
+p {
+  font-family: "Satisfy", cursive;
+  padding-left: 80px;
+  padding-top: 40px;
+}
+
+h2 {
+  font-family: "Satisfy", cursive;
+  text-align: center;
+}
+
+img {
+  width: 400px;
+  padding-top: 25px;
+  padding-left: 13px;
+  display: flexbox;
+  border-radius: 15px;
+  border-top: 15px;
+}
+
+ul {
+  padding-left: 95px;
+}
