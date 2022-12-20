@@ -39,3 +39,12 @@ h4 {
   padding-top: 20px;
   padding-bottom: 500px;
 }
+
+h3 {
+  text-align: center;
+  width: 600px;
+}
+
+table {
+  border-radius: 5px;
+}
